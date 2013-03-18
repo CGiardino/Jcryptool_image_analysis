@@ -1,0 +1,33 @@
+#This is a generated file; do not edit.
+#Mon Mar 18 15:32:04 CET 2013
+org.jcryptool.analysis.image=org.jcryptool.analysis.image\n1.0.0.201108261619
+org.jcryptool.core=org.jcryptool.core\n0.9.5.201108261619\norg.jcryptool.core.nl\n0.9.5.201108261619
+org.eclipse.help.base=org.eclipse.help.base\n3.6.0.v201106131736
+org.jcryptool.crypto.modern.sha3=org.jcryptool.crypto.modern.sha3\n0.9.5.201108261619
+org.jcryptool.analysis.friedman=org.jcryptool.analysis.friedman\n0.9.5.201108261619
+org.jcryptool.analysis.transpositionanalysis=org.jcryptool.analysis.transpositionanalysis\n0.9.5.201108261619
+org.jcryptool.crypto.modern.stream.lfsr=org.jcryptool.crypto.modern.stream.lfsr\n0.9.5.201108261619
+org.jcryptool.crypto.classic.substitution=org.jcryptool.crypto.classic.substitution\n0.9.5.201108261619
+org.jcryptool.crypto.classic.autovigenere=org.jcryptool.crypto.classic.autovigenere\n0.9.5.201108261619
+org.jcryptool.fileexplorer=org.jcryptool.fileexplorer\n0.9.5.201108261619
+org.eclipse.ui.cheatsheets=org.eclipse.ui.cheatsheets\n3.4.100.v20110425
+org.jcryptool.crypto.classic.doppelkasten=org.jcryptool.crypto.classic.doppelkasten\n0.9.5.201108261619
+org.jcryptool.crypto.classic.transposition=org.jcryptool.crypto.classic.transposition\n0.9.5.201108261619
+org.jcryptool.crypto.classic.playfair=org.jcryptool.crypto.classic.playfair\n0.9.5.201108261619
+org.eclipse.wst.xml.security.doc=org.eclipse.wst.xml.security.doc\n0.5.0.201108261619
+org.jcryptool.visual.sidechannelattack.dpa=org.jcryptool.visual.sidechannelattack.dpa\n0.9.5.201108261619
+org.eclipse.ui.intro=org.eclipse.ui.intro\n3.4.100.v20110425
+org.eclipse.help=org.eclipse.help\n3.5.100.v20110426
+org.jcryptool.analysis.entropy=org.jcryptool.analysis.entropy\n0.9.5.201108261619
+org.jcryptool.visual.zeroknowledge=org.jcryptool.visual.zeroknowledge\n0.9.5.201108261619
+org.jcryptool.crypto.classic.xor=org.jcryptool.crypto.classic.xor\n0.9.5.201108261619
+org.jcryptool.visual.kleptography=org.jcryptool.visual.kleptography\n0.9.5.201108261619
+org.jcryptool.crypto.classic.caesar=org.jcryptool.crypto.classic.caesar\n0.9.5.201108261619
+org.jcryptool.analysis.freqanalysis=org.jcryptool.analysis.freqanalysis\n0.9.5.201108261619
+org.jcryptool.crypto.modern.stream.dragon=org.jcryptool.crypto.modern.stream.dragon\n0.9.5.201108261619
+org.jcryptool.crypto.classic.vigenere=org.jcryptool.crypto.classic.vigenere\n0.9.5.201108261619
+org.jcryptool.visual.sidechannelattack.spa=org.jcryptool.visual.sidechannelattack.spa\n0.9.5.201108261619
+org.jcryptool.crypto.classic.adfgvx=org.jcryptool.crypto.classic.adfgvx\n0.9.5.201108261619
+org.jcryptool.crypto.classic.delastelle=org.jcryptool.crypto.classic.delastelle\n0.9.5.201108261619
+org.jcryptool.visual.aco=org.jcryptool.visual.aco\n0.9.5.201108261619
+org.jcryptool.commands.ui=org.jcryptool.commands.ui\n0.9.5.201108261619
